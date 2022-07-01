@@ -25,7 +25,7 @@ gcc -std=c99 main.c source.c pipe.c sink.c -o TMR.out
 
 - Run the cmake command
 
-  Note: CMake 3.20 or higher is required
+  Note: CMake 3.16 or higher is required
   
 - ````
   cmake . 
