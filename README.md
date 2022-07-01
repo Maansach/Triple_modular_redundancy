@@ -13,7 +13,7 @@ The function of the C files:
   an output array, otherwise repeat the last valid value.
 - `main.c` - run the chain with pipe, source and sink
 
-#Procedure to run script
+# Procedure to run script
 
 - Download the Zip file or clone the github repository
 - Use gcc compiler
