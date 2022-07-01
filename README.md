@@ -17,6 +17,7 @@ The function of the C files:
 
 - Download the Zip file or clone the github repository
 - Run the cmake command
+  Note: CMake 3.20 or higher is required
 - ````
   cmake . 
   ````
