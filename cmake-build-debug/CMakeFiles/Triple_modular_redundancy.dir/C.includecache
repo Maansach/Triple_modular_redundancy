@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/maana/CLionProjects/Triple_modular_redundancy/define.h
+
+C:/Users/maana/CLionProjects/Triple_modular_redundancy/main.c
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+source.h
+C:/Users/maana/CLionProjects/Triple_modular_redundancy/source.h
+define.h
+C:/Users/maana/CLionProjects/Triple_modular_redundancy/define.h
+
+C:/Users/maana/CLionProjects/Triple_modular_redundancy/source.c
+
+C:/Users/maana/CLionProjects/Triple_modular_redundancy/source.h
+

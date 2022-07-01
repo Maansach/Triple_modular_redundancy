@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Triple_modular_redundancy.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Triple_modular_redundancy.dir/objects.a @CMakeFiles\Triple_modular_redundancy.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X8EAA8~1.EXE -g -Wl,--whole-archive CMakeFiles\Triple_modular_redundancy.dir/objects.a -Wl,--no-whole-archive -o Triple_modular_redundancy.exe -Wl,--out-implib,libTriple_modular_redundancy.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Triple_modular_redundancy.dir\linklibs.rsp

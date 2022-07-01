@@ -1,0 +1,3 @@
+C:/Users/maana/CLionProjects/Triple_modular_redundancy/cmake-build-debug/CMakeFiles/Triple_modular_redundancy.dir
+C:/Users/maana/CLionProjects/Triple_modular_redundancy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maana/CLionProjects/Triple_modular_redundancy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
