@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.20)
+cmake_minimum_required(VERSION 3.16)
 project(Triple_modular_redundancy C)
 
 set(CMAKE_C_STANDARD 99)
