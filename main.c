@@ -40,6 +40,7 @@ int main() {
         for (int pl = 0; pl < PIPE_LEVEL; pl++) {
             for (int ps = 0; ps < PIPE_SIZE; ps++) {
                 if (pl == 0) {
+                    printf("\n");
                     for (int sn = 0; sn < SOURCE_SIZE; sn++) {
                         printf("\nThe value %d of source array is %d", sn,
                                generate_value_for_number_array(array[sn], i));
@@ -47,6 +48,7 @@ int main() {
                     }
                     verify_inputs(ps, pl, 1);
                 } else {
+                    printf("\n");
                     for (int rp = 0; rp < PIPE_SIZE; rp++) {
                         printf("\nThe value %d of pipe level %d is %d", rp, pl - 1, pipe_value[pl - 1][rp]);
                     }
