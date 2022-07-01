@@ -4,8 +4,10 @@
 CMakeFiles/Triple_modular_redundancy.dir/main.c.obj
  C:/Users/maana/CLionProjects/Triple_modular_redundancy/define.h
  C:/Users/maana/CLionProjects/Triple_modular_redundancy/main.c
+ C:/Users/maana/CLionProjects/Triple_modular_redundancy/pipe.h
  C:/Users/maana/CLionProjects/Triple_modular_redundancy/source.h
 CMakeFiles/Triple_modular_redundancy.dir/pipe.c.obj
+ C:/Users/maana/CLionProjects/Triple_modular_redundancy/define.h
  C:/Users/maana/CLionProjects/Triple_modular_redundancy/pipe.c
 CMakeFiles/Triple_modular_redundancy.dir/sink.c.obj
  C:/Users/maana/CLionProjects/Triple_modular_redundancy/sink.c

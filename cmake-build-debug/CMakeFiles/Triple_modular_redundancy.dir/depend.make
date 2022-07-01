@@ -4,8 +4,10 @@
 CMakeFiles/Triple_modular_redundancy.dir/main.c.obj: \
  ../define.h \
  ../main.c \
+ ../pipe.h \
  ../source.h
 CMakeFiles/Triple_modular_redundancy.dir/pipe.c.obj: \
+ ../define.h \
  ../pipe.c
 CMakeFiles/Triple_modular_redundancy.dir/sink.c.obj: \
  ../sink.c \

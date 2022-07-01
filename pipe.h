@@ -6,6 +6,6 @@
 #define TRIPLE_MODULAR_REDUNDANCY_PIPE_H
 
 
-void verify_inputs();
+void verify_inputs(int pipe_size, int pipe_level, int is_source);
 
 #endif //TRIPLE_MODULAR_REDUNDANCY_PIPE_H

@@ -11,16 +11,14 @@ C:/Users/maana/CLionProjects/Triple_modular_redundancy/define.h
 C:/Users/maana/CLionProjects/Triple_modular_redundancy/main.c
 stdio.h
 -
-stdlib.h
--
-pthread.h
--
 source.h
 C:/Users/maana/CLionProjects/Triple_modular_redundancy/source.h
+pipe.h
+C:/Users/maana/CLionProjects/Triple_modular_redundancy/pipe.h
 define.h
 C:/Users/maana/CLionProjects/Triple_modular_redundancy/define.h
 
-C:/Users/maana/CLionProjects/Triple_modular_redundancy/source.c
+C:/Users/maana/CLionProjects/Triple_modular_redundancy/pipe.h
 
 C:/Users/maana/CLionProjects/Triple_modular_redundancy/source.h
 
