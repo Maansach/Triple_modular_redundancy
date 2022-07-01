@@ -7,14 +7,14 @@
 
 void verify_inputs(int pipe_size, int pipe_level, int is_source) {
 
-    int flag =0;
+    int flag = 0;
     if (is_source == 1) {
         for (int i = 0; i < SOURCE_SIZE - 1; i++) {
             if (source_value[i] == source_value[i + 1]) {
                 pipe_value[pipe_level][pipe_size] = source_value[i];
                 printf("\nThe value of pipe number %d of pipe level %d is %d", pipe_size, pipe_level,
                        pipe_value[pipe_level][pipe_size]);
-                flag =1;
+                flag = 1;
             }
         }
     } else {
@@ -30,7 +30,7 @@ void verify_inputs(int pipe_size, int pipe_level, int is_source) {
 
     }
 
-    if(flag == 0){
+    if (flag == 0) {
         printf("\nThe value of pipe number %d of pipe level %d is %d", pipe_size, pipe_level,
                pipe_value[pipe_level][pipe_size]);
     }
