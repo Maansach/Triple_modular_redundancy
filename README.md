@@ -16,6 +16,13 @@ The function of the C files:
 #Procedure to run script
 
 - Download the Zip file or clone the github repository
+- Use gcc compiler
+````
+gcc -std=c99 main.c source.c pipe.c sink.c -o TMR.out
+ ./TMR.out
+
+````
+
 - Run the cmake command
 
   Note: CMake 3.20 or higher is required
