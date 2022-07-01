@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(Triple_modular_redundancy C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(Triple_modular_redundancy main.c)
