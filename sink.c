@@ -1,5 +1,8 @@
 //
 // Created by maana on 7/1/2022.
+// The sink expects the reference to either three pipes or sources. 
+// Each cycle the sink will read the three inputs and only if two or more are the same, store the output inside an 
+// output array, otherwise repeat the last valid value.
 //
 
 #include "define.h"
