@@ -1,5 +1,7 @@
 //
 // Created by maana on 7/1/2022.
+// The pipe.c expects the references to either three pipes or three sources. The pipe will store the last valid value (default 0). Each cycle the pipe
+// will read the three inputs and only if two or more are the same update the stored valid value. The pipe will store the last valid value in a 2D array.
 //
 
 #include "define.h"
